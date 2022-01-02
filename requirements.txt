@@ -4,7 +4,6 @@ pip~=21.3.1
 scipy~=1.7.1
 scikit-learn~=0.24.2
 pandas~=1.3.4
-numpy
 seaborn
 keras
 tensorflow
